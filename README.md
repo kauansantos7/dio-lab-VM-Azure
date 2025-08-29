@@ -39,9 +39,9 @@ Ao combinar escalabilidade, confiabilidade, segurança e governança, fica evide
 
 ---
 
-## 3. Laboratório Prático com Máquinas Virtuais
+## 3. Máquinas Virtuais
 
-O laboratório envolveu a criação e configuração de uma VM no Azure, aplicando conceitos teóricos aprendidos durante o curso.
+O lab envolveu a criação e configuração de uma VM no Azure, aplicando conceitos teóricos aprendidos durante o curso.
 
 ### 3.1 Criação da Máquina Virtual
 
@@ -67,7 +67,7 @@ Implementamos medidas básicas de segurança:
 
 ## 4. Documentação do Processo
 
-Durante o laboratório, documentamos cada etapa com capturas de tela e descrições detalhadas:
+Durante o lab, documentamos cada etapa com capturas de tela e descrições detalhadas:
 
 1. **Portal Azure**: imagens da criação da VM, configurações de rede e armazenamento.  
 2. **Escalabilidade**: prints das alterações de CPU e memória, com resultados do monitoramento de desempenho.  
@@ -82,7 +82,7 @@ Esta documentação detalhada garante que o processo seja reproduzível e facili
 
 ## 5. Conclusão
 
-O laboratório evidenciou diversos benefícios do uso de computação em nuvem e da plataforma Microsoft Azure:  
+O lab evidenciou diversos benefícios do uso de computação em nuvem e da plataforma Microsoft Azure:  
 - **Escalabilidade**: recursos ajustáveis conforme demanda, sem necessidade de infraestrutura local.  
 - **Confiabilidade**: alta disponibilidade e backups automáticos garantem continuidade do serviço.  
 - **Segurança e Governança**: ferramentas de monitoramento e políticas de acesso aumentam a proteção e o controle sobre os recursos.  
